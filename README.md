@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi there I'm Sierra Riley!
 
-<!--
-**sierrariley/sierrariley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me: <br>
+I am an aspiring Mobile App Developer with web development ability as well. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on
+- Finishing my Mobile Application Development Diploma
+- Final Capstone project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Game Development (Unity)
+- SwuiftUI
+- Flutter
+
+***
+⭐Skills: <br>
+1.🍎iOS Developemnt
+  - Swift (UIKit)
+  - SwiftUI
+  - MapKit
+2.🤖Android Development
+  - Java
+3. C#
+4. Java
+5. 💻 HTML/CSS
+
+
+
+
+
+  <!--- 📫 How to reach me: ... -->
+
+
