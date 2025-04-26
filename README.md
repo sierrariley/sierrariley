@@ -23,6 +23,8 @@ I am an aspiring Mobile App Developer with web development ability as well.
 3. C#
 4. Java
 5. 💻 HTML/CSS
+6. Laravel / PHP
+7. Bootstrap
 
 
 
