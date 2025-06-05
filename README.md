@@ -2,15 +2,7 @@
 
 About Me: <br>
 I am an aspiring Mobile App Developer with web development ability as well. 
-
-🔭 I’m currently working on
-- Finishing my Mobile Application Development Diploma
-- Final Capstone project
-
-🌱 I’m currently learning:
-- Game Development (Unity)
-- SwuiftUI
-- Flutter
+I just graduated from the Mobile Application Development Program at St. Clair College. 
 
 ***
 ⭐Skills: <br>
@@ -25,11 +17,9 @@ I am an aspiring Mobile App Developer with web development ability as well.
 5. 💻 HTML/CSS
 6. Laravel / PHP
 7. Bootstrap
+8. Tailwind
 
-
-
-
-
-  <!--- 📫 How to reach me: ... -->
+📫 How to reach me: 
+[LinkedIn](www.linkedin.com/in/sierra-riley-a4a267146)
 
 
